@@ -1,0 +1,1 @@
+execute @e[name=hotel,x=-252,y=60,z=272] ~ ~ ~ tp @p
